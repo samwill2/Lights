@@ -1,1 +1,43 @@
-/* Styles for your homework one assignment */
+ul .nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+
+}
+
+li .list {
+  float: right; 
+  color: #000;
+}
+
+li a {
+  display: inline-block;
+  color: #000 ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Monofett', cursive;
+  font-size: 40px
+}
+
+/* Change the link color to #111 (black) on hover */
+
+
+h1 { 
+  text-align: center;
+  font-family: 'Monofett', cursive;
+  font-size: 70px
+
+
+}
+p { text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+
+}
+
+body {
+  background-color: #322977;
+}
